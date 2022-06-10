@@ -1,0 +1,1 @@
+# 02_day_installation.-vsc
